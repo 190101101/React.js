@@ -1,0 +1,13 @@
+bu ders cox cetin deyil qatma qarishiq oldugu ucun tekrarla.
+
+context hook hakkinda
+
+context.Provider oturendir
+context.Consumer istifade edendir
+
+consumer evezine bu daha dogrudur
+import React, {useContext} from "react";
+const ctx = useContext(AuthContext);
+
+
+107 ci ders AuthContext fayline fikir ver

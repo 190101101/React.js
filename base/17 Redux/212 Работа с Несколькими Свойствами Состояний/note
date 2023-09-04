@@ -1,0 +1,17 @@
+base\17 Redux\204 Как Работает Redux
+base\17 Redux\205 Основные Концепции Redux
+base\17 Redux\206 Подготовка Проекта и Создание Хранилища
+base\17 Redux\207 Redux Provider
+base\17 Redux\208 Использование Данных Redux в React Компонентах
+base\17 Redux\209 Отправка Actions
+base\17 Redux\210 Redux в Классовых Компонентах
+base\17 Redux\211 Более Сложные Actions
+base\17 Redux\212 Работа с Несколькими Свойствами Состояний
+base\17 Redux\213 Как Правильно Работать с Redux Состоянием
+base\17 Redux\214 Redux Toolkit
+base\17 Redux\215 State Slices
+base\17 Redux\216 Подключение Состояния Redux Toolkit
+base\17 Redux\217 Полная Миграция в Redux Toolkit
+base\17 Redux\218 Использование Нескольких Слайсов
+base\17 Redux\219 Работа с userAuthSlice
+base\17 Redux\220 Разделение Кода

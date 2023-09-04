@@ -1,0 +1,11 @@
+base\02 основы React\18 Более Сложный JSX код
+
+JSX bu cur return qebul etmir. 
+<div></div>
+<div></div>
+<div></div>
+
+element bir dene tagin icinde return olmalidi
+<div>
+    ...
+</div>
